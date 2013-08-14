@@ -1,0 +1,106 @@
+
+/********************************************/
+
+#logo a {color:#FE5214;}
+#footer {color:#7d7d7d;}#footer p {color:#7d7d7d;}#footer {background-color:#232222;}#footer .widget-title{color:#FAFAFA;}#footer a:not(.button) {color:#7B7B7B;}#footer a:hover{color:#FFFFFF;}
+
+a {color:#7B7B7B ;}	
+
+    #navigation {background: #333}
+
+    .navigation > div > ul > li > a {color:#F9F9F9;}
+
+    .navigation li.current-menu-item > a,
+    .navigation li.current-menu-parent > a,
+    .navigation li.current-menu-ancestor > a,
+    .navigation li.current_page_item > a, 
+    .navigation li.current_page_parent > a, 
+    .navigation li.current_page_ancestor > a, 
+    .navigation ul ul li.current-menu-item > a,
+    .navigation ul ul li.current-menu-parent > a,
+    .navigation ul ul li.current-menu-ancestor > a,
+    .navigation ul ul li.current_page_item > a, 
+    .navigation ul ul li.current_page_parent > a, 
+    .navigation ul ul li.current_page_ancestor > a
+    {
+    color:#FE5214;
+    }
+
+    .navigation ul ul li:hover > a {color:#FE5214;}
+
+
+
+
+
+
+
+
+    #content, #content p {color:#7d7d7d;}
+    #content a:hover, #content a > *:hover {color:#fe5214;}
+
+
+
+
+
+/********************************************************/
+
+
+
+
+
+    #sidebar h3.widget-title {color:#404040;}
+    #sidebar .widget_recent_comments li a,
+    #sidebar .widget_recent_entries li a,
+    #sidebar .widget_categories li a,
+    #sidebar .widget_archive li a,
+    #sidebar .widget_nav_menu li a,
+    #sidebar .widget_links li a,
+    #sidebar .widget_meta li a,
+    #sidebar .widget_pages li a,
+    #sidebar .textwidget a,
+    #sidebar .tagcloud a,
+    #sidebar .jta-tweet-text {
+    color:#7B7B7B;
+    }
+    #sidebar .widget_recent_comments li a:hover,
+    #sidebar .widget_recent_entries li a:hover,
+    #sidebar .widget_categories li a:hover,
+    #sidebar .widget_archive li a:hover,
+    #sidebar .widget_nav_menu li a:hover,
+    #sidebar .widget_links li a:hover,
+    #sidebar .widget_meta li a:hover,
+    #sidebar .widget_pages li a:hover,
+    #sidebar .textwidget a:hover,
+    #sidebar .tagcloud a:hover {
+    color:#FE5214;
+    }
+
+    #sidebar .textwidget,
+    #sidebar .jta-tweet-text,
+    #sidebar .widget_custom_recent_entries,
+    #sidebar .widget_custom_recent_entries p,
+    #sidebar .widget_recent_projects,
+    #sidebar .widget_recent_projects p {color:#7d7d7d;}
+	
+
+/**************************/
+
+    #sidebar .quote-text,
+    #sidebar .quote-text p,
+    #footer .quote-text,
+    #footer .quote-text p {color:#fafafa;}
+
+    #sidebar .quote-author,
+    #footer .quote-author {color:#fafafa;}
+
+/********************************************************/
+
+
+
+
+
+
+
+    
+    
+    

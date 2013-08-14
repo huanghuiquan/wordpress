@@ -1,0 +1,549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: inFocus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-03 07:28-0800\n"
+"PO-Revision-Date: 2011-07-03 07:29-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__;esc_html_e;esc_html__;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:9
+msgid "Please do not load this page directly."
+msgstr ""
+
+#: comments.php:16
+msgid "Password Protected"
+msgstr ""
+
+#: comments.php:19
+msgid "Enter the password to view comments."
+msgstr ""
+
+#: framework.php:512
+#: framework.php:521
+msgid "Read More"
+msgstr ""
+
+#: framework.php:591
+msgid "in&nbsp;"
+msgstr ""
+
+#: framework.php:617
+msgid "<em>Tags:</em>&nbsp;"
+msgstr ""
+
+#: framework.php:620
+msgid "<em>Categories:</em>&nbsp;"
+msgstr ""
+
+#: framework.php:709
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: framework.php:715
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework.php:722
+#: page.php:29
+#: single-portfolio.php:27
+#: single.php:27
+#: template-featuretour.php:40
+msgid "Edit"
+msgstr ""
+
+#: page.php:28
+#: single-portfolio.php:26
+#: single.php:26
+#: template-featuretour.php:39
+msgid "Pages:"
+msgstr ""
+
+#: lib/admin/classes/skin-generator.php:137
+#, php-format
+msgid "Upload Successful. The following skin was added: %1$s"
+msgstr ""
+
+#: lib/admin/classes/skin-generator.php:164
+#, php-format
+msgid "The following image could not be add to your export, it will have to be added to your skin manually: %1$s"
+msgstr ""
+
+#: lib/classes/contact.php:32
+#, php-format
+msgid "Form Field %1$s"
+msgstr ""
+
+#: lib/classes/contact.php:33
+msgid "Your Website"
+msgstr ""
+
+#: lib/classes/contact.php:34
+#, php-format
+msgid "Message sent from your %1$s website"
+msgstr ""
+
+#: lib/classes/contact.php:35
+#, php-format
+msgid "%1$s Auto Responder"
+msgstr ""
+
+#: lib/classes/contact.php:36
+msgid "Your captcha result is wrong."
+msgstr ""
+
+#: lib/classes/contact.php:37
+msgid "You have entered an invalid e-mail address."
+msgstr ""
+
+#: lib/classes/contact.php:38
+#, php-format
+msgid "&rdquo;%1$s&rdquo; is required."
+msgstr ""
+
+#: lib/classes/contact.php:39
+msgid "Failed to send your message. Please try later or contact administrator by other way."
+msgstr ""
+
+#: lib/classes/contact.php:40
+msgid "Your message was sent successfully. Thanks."
+msgstr ""
+
+#: lib/classes/widget-contact-form.php:23
+#: lib/classes/widget-contact.php:22
+msgid "Contact Info"
+msgstr ""
+
+#: lib/classes/widget-flickr.php:22
+msgid "Photos on flickr"
+msgstr ""
+
+#: lib/classes/widget-popular.php:26
+msgid "Popular Posts"
+msgstr ""
+
+#: lib/classes/widget-recent.php:26
+msgid "Recent Posts"
+msgstr ""
+
+#: lib/classes/widget-twitter.php:25
+msgid "Recent Tweets"
+msgstr ""
+
+#: lib/extensions/breadcrumbs-plus/breadcrumbs-plus.php:54
+msgid "Home"
+msgstr ""
+
+#: lib/extensions/breadcrumbs-plus/breadcrumbs-plus.php:168
+#: lib/extensions/breadcrumbs-plus/breadcrumbs-plus.php:171
+#: lib/extensions/breadcrumbs-plus/breadcrumbs-plus.php:174
+msgid "Archives for "
+msgstr ""
+
+#: lib/extensions/breadcrumbs-plus/breadcrumbs-plus.php:178
+msgid "Archives by: "
+msgstr ""
+
+#: lib/extensions/breadcrumbs-plus/breadcrumbs-plus.php:183
+msgid "Search results for \""
+msgstr ""
+
+#: lib/extensions/breadcrumbs-plus/breadcrumbs-plus.php:187
+msgid "Page Not Found"
+msgstr ""
+
+#: lib/functions/core.php:629
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: lib/functions/core.php:632
+msgid "&laquo; First"
+msgstr ""
+
+#: lib/functions/core.php:633
+msgid "Last &raquo;"
+msgstr ""
+
+#: lib/functions/core.php:634
+msgid "&raquo;"
+msgstr ""
+
+#: lib/functions/core.php:635
+msgid "&laquo;"
+msgstr ""
+
+#: lib/functions/core.php:636
+#: lib/functions/core.php:637
+msgid "..."
+msgstr ""
+
+#: lib/functions/theme.php:54
+#: lib/functions/theme.php:60
+#: lib/functions/theme.php:63
+#: lib/functions/theme.php:69
+#: lib/functions/theme.php:72
+#, php-format
+msgid "Archive for %1$s"
+msgstr ""
+
+#: lib/functions/theme.php:54
+msgid "g:i a"
+msgstr ""
+
+#: lib/functions/theme.php:57
+#, php-format
+msgid "Archive for minute %1$s"
+msgstr ""
+
+#: lib/functions/theme.php:57
+msgid "i"
+msgstr ""
+
+#: lib/functions/theme.php:60
+msgid "g a"
+msgstr ""
+
+#: lib/functions/theme.php:63
+msgid "F jS, Y"
+msgstr ""
+
+#: lib/functions/theme.php:66
+#, php-format
+msgid "Archive for week %1$s of %2$s"
+msgstr ""
+
+#: lib/functions/theme.php:66
+msgid "W"
+msgstr ""
+
+#: lib/functions/theme.php:66
+#: lib/functions/theme.php:72
+msgid "Y"
+msgstr ""
+
+#: lib/functions/theme.php:78
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: lib/functions/theme.php:82
+msgid "404 Not Found"
+msgstr ""
+
+#: lib/functions/theme.php:86
+#, php-format
+msgid "%1$s Page %2$s"
+msgstr ""
+
+#: lib/functions/theme.php:702
+#: lib/functions/theme.php:730
+msgid "Portfolio"
+msgstr ""
+
+#: lib/functions/theme.php:754
+msgid "Search"
+msgstr ""
+
+#: lib/functions/theme.php:755
+#: lib/functions/theme.php:916
+#, php-format
+msgid "Search Results for: %1$s"
+msgstr ""
+
+#: lib/functions/theme.php:762
+#: lib/functions/theme.php:2396
+msgid "Archives"
+msgstr ""
+
+#: lib/functions/theme.php:764
+#: lib/functions/theme.php:918
+#, php-format
+msgid "Category Archive for: %1$s"
+msgstr ""
+
+#: lib/functions/theme.php:766
+#: lib/functions/theme.php:920
+#, php-format
+msgid "All Posts Tagged Tag: %1$s"
+msgstr ""
+
+#: lib/functions/theme.php:768
+#: lib/functions/theme.php:922
+#, php-format
+msgid "Daily Archive for: %1$s"
+msgstr ""
+
+#: lib/functions/theme.php:770
+#: lib/functions/theme.php:924
+#, php-format
+msgid "Monthly Archive for: %1$s"
+msgstr ""
+
+#: lib/functions/theme.php:772
+#: lib/functions/theme.php:926
+#, php-format
+msgid "Yearly Archive for: %1$s"
+msgstr ""
+
+#: lib/functions/theme.php:775
+#: lib/functions/theme.php:930
+#, php-format
+msgid "Author Archive for: %1$s"
+msgstr ""
+
+#: lib/functions/theme.php:778
+#: lib/functions/theme.php:933
+#, php-format
+msgid "Archives for: %1$s"
+msgstr ""
+
+#: lib/functions/theme.php:786
+#: lib/functions/theme.php:2321
+msgid "Not Found"
+msgstr ""
+
+#: lib/functions/theme.php:1209
+msgid "<em>Posted on:</em>"
+msgstr ""
+
+#: lib/functions/theme.php:1212
+msgid "<em>With:</em>"
+msgstr ""
+
+#: lib/functions/theme.php:1215
+msgid "<em>Posted by:</em>"
+msgstr ""
+
+#: lib/functions/theme.php:1423
+msgid "Share this:"
+msgstr ""
+
+#: lib/functions/theme.php:1450
+msgid "About the Author"
+msgstr ""
+
+#: lib/functions/theme.php:1455
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: lib/functions/theme.php:1489
+msgid "Additional Posts"
+msgstr ""
+
+#: lib/functions/theme.php:1500
+#: lib/functions/theme.php:1515
+msgid "Related Posts"
+msgstr ""
+
+#: lib/functions/theme.php:2154
+#, php-format
+msgid "%1$s Comment"
+msgstr ""
+
+#: lib/functions/theme.php:2158
+#, php-format
+msgid "%1$s Trackback"
+msgstr ""
+
+#: lib/functions/theme.php:2193
+msgid "1 Comment"
+msgstr ""
+
+#: lib/functions/theme.php:2283
+msgid "*"
+msgstr ""
+
+#: lib/functions/theme.php:2287
+msgid "Name"
+msgstr ""
+
+#: lib/functions/theme.php:2288
+msgid "Email"
+msgstr ""
+
+#: lib/functions/theme.php:2289
+msgid "Website"
+msgstr ""
+
+#: lib/functions/theme.php:2295
+#, php-format
+msgid "You must be <a href=\"%1$s\" title=\"Log in\">logged in</a> to post a comment."
+msgstr ""
+
+#: lib/functions/theme.php:2296
+#, php-format
+msgid "Logged in as <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+msgstr ""
+
+#: lib/functions/theme.php:2296
+msgid "Log out of this account"
+msgstr ""
+
+#: lib/functions/theme.php:2296
+msgid "Log out &raquo;"
+msgstr ""
+
+#: lib/functions/theme.php:2301
+msgid "Leave a Reply"
+msgstr ""
+
+#: lib/functions/theme.php:2302
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: lib/functions/theme.php:2303
+msgid "Click here to cancel reply."
+msgstr ""
+
+#: lib/functions/theme.php:2304
+#: lib/functions/theme.php:2414
+msgid "Submit"
+msgstr ""
+
+#: lib/functions/theme.php:2326
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: lib/functions/theme.php:2328
+msgid "Apologies, but no post could be found matching your criteria."
+msgstr ""
+
+#: lib/functions/theme.php:2330
+msgid "Apologies, but no post could be found matching your criteria. Perhaps searching will help."
+msgstr ""
+
+#: lib/functions/theme.php:2370
+msgid "Pages"
+msgstr ""
+
+#: lib/functions/theme.php:2373
+#: lib/functions/theme.php:2378
+#: lib/functions/theme.php:2386
+#: lib/functions/theme.php:2394
+#: lib/functions/theme.php:2399
+msgid "Top"
+msgstr ""
+
+#: lib/functions/theme.php:2375
+msgid "Category Archives"
+msgstr ""
+
+#: lib/functions/theme.php:2376
+msgid "RSS"
+msgstr ""
+
+#: lib/functions/theme.php:2381
+msgid "Blog Posts"
+msgstr ""
+
+#: lib/functions/theme.php:2383
+#: lib/functions/theme.php:2391
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: lib/functions/theme.php:2389
+msgid "Portfolios"
+msgstr ""
+
+#: lib/functions/theme.php:2413
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: lib/functions/theme.php:2414
+msgid "Password:"
+msgstr ""
+
+#: lib/functions/twitter.php:47
+msgid "Twitter not configured."
+msgstr ""
+
+#: lib/functions/twitter.php:82
+#, php-format
+msgid "<small> (%1$s&nbsp;ago)</small>"
+msgstr ""
+
+#: lib/functions/twitter.php:88
+#, php-format
+msgid "%1$s&nbsp;ago"
+msgstr ""
+
+#: lib/shortcodes/15-portfolio.php:291
+#: lib/shortcodes/15-portfolio.php:613
+msgid "Visit Site"
+msgstr ""
+
+#: lib/shortcodes/15-portfolio.php:321
+#: lib/shortcodes/15-portfolio.php:636
+msgid "No portfolio posts were found for the category selected."
+msgstr ""
+
+#: lib/shortcodes/16-contact.php:52
+msgid "Name:"
+msgstr ""
+
+#: lib/shortcodes/16-contact.php:52
+msgid "Email:"
+msgstr ""
+
+#: lib/shortcodes/16-contact.php:52
+msgid "Message:"
+msgstr ""
+
+#: lib/shortcodes/21-video.php:73
+msgid "Check this to disable the keyboard controls"
+msgstr ""
+
+#: lib/shortcodes/21-video.php:144
+msgid "Please enter the url to a YouTube video."
+msgstr ""
+
+#: lib/shortcodes/21-video.php:153
+msgid "There was an error retrieving the YouTube video ID for the url you entered, please verify that the url is correct."
+msgstr ""
+
+#: lib/shortcodes/21-video.php:250
+msgid "Please enter the url to a Vimeo video."
+msgstr ""
+
+#: lib/shortcodes/21-video.php:259
+msgid "There was an error retrieving the Vimeo video ID for the url you entered, please verify that the url is correct."
+msgstr ""
+
+#: lib/shortcodes/_hidden.php:291
+msgid "<em>Posted on: </em>"
+msgstr ""
+
+#: lib/shortcodes/_hidden.php:295
+msgid "l, F jS, Y, g:i a"
+msgstr ""
+
+#: lib/shortcodes/_hidden.php:306
+msgid "0 Comments"
+msgstr ""
+
+#: lib/shortcodes/_hidden.php:308
+#, php-format
+msgid "%1$s Comments"
+msgstr ""
+
+#: lib/shortcodes/_hidden.php:321
+#: lib/shortcodes/_hidden.php:323
+#: lib/shortcodes/_hidden.php:325
+#, php-format
+msgid "Comment on %1$s"
+msgstr ""
+
+#: lib/shortcodes/_hidden.php:344
+msgid "<em>Posted in: </em>"
+msgstr ""
+

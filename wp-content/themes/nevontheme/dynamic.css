@@ -1,0 +1,115 @@
+/* BEGIN my_css */
+.nav ul li{
+	border-color:#efbc9f;
+}
+
+a, ol.commentlist li.comment div.vcard cite.fn, 
+.products-holder .small-header-text-container a:hover, .toggle-header, .our-team .name,
+.small-header-text-container > span.small-header-text a:hover{
+	color:#ec4f2c;
+}
+
+.comments-submit , .nav, .commentlist .reply a, #cancel-comment-reply-link,
+#nevon-search input[type=search]:hover, .nevon-incontent-button, .control, #toTop,
+.generalBtn, .navigation a, .date-area, .header-text-container .view-all,
+ a.jms-link, .jms-dots span.jms-dots-current::after,
+.iview-caption.caption5, .view a.info, .header-under-line{
+	background-color:#ec4f2c;
+}
+
+.box-shadow-dark{
+	-webkit-box-shadow:inset 0 0 2px #DD633C;
+	-moz-box-shadow:inset  0 0 2px #DD633C;
+	box-shadow:inset 0 0 2px #DD633C;
+	border-color:#DD633C;
+}
+
+.gallery-view{
+	border-bottom:3px solid #ec4f2c;
+}
+
+.header-text-container .view-all,.comments-submit, .commentlist .reply a, #cancel-comment-reply-link,
+.nevon-incontent-button, .leftControl, .rightControl, #toTop, .generalBtn, .view a.info, #footer{
+	border-color:#DD633C;
+}
+
+.menu-top-bg,  .btn-top-bg{
+	background-color:;
+}
+
+.nav ul li.current_page_item > .btn-dark-hover{
+	opacity:0.2 !important;
+}
+
+#nevon-search input[type=search]:focus{
+	-moz-box-shadow:  0 0 2px #DD633C;
+	-webkit-box-shadow:  0 0 2px #DD633C;
+	box-shadow: 0 0 2px #DD633C;
+}
+
+.details-border{
+	border-color:#DD633C;
+}
+
+.tabs_content_container{
+	border-color:#DD633C;
+}
+
+#footer{
+	color: #383838;	
+}
+
+.nav a{
+	color:#fefeff;
+}
+
+body{
+	color:#3D3D3D;
+	font-size:;
+}
+
+.nav{
+	font-size:1.4em !important;
+}
+
+#header-top a,  .tweets li a.timesince, blockquote ,
+ol.commentlist li.comment p, .testimonial-intext, .testimonial,
+.testimonial-author span, .sidebar, .navigation, .post-details{
+	color:#888;
+}
+
+.slickr-flickr-gallery ul li {
+	overflow:visible !important;	
+}
+
+/*
+
+ FONT FAMILIES
+*/
+
+body{
+	font-family: "Open Sans", sans-serif; !important;
+	background:url(images/furley_bg.png);
+}
+
+.header-text-container, .header-text-container .view-all, h3.widget-title, .load-gallery > li,
+.small-h1, .sidebar-header-text-container, .small-header-text-container, .view a.info{
+	 !important;
+}
+
+.nav{
+	 !important;
+}
+
+.view{
+	 !important;
+}
+
+#footer{
+	background:#EEEEEE url();
+}
+
+#footer-bottom{
+	background-color:;
+}
+/* END my_css */

@@ -1,0 +1,552 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: inFocus v2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-03 07:28-0800\n"
+"PO-Revision-Date: 2011-12-01 18:26+0800\n"
+"Last-Translator: ben wei <laowei2002@gmail.com>\n"
+"Language-Team: weidea <laowei2002@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__;esc_html_e;esc_html__;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:9
+msgid "Please do not load this page directly."
+msgstr "请不要直接载入此页。"
+
+#: comments.php:16
+msgid "Password Protected"
+msgstr "密码保护"
+
+#: comments.php:19
+msgid "Enter the password to view comments."
+msgstr "输入密码以查看评论"
+
+#: framework.php:512
+#: framework.php:521
+msgid "Read More"
+msgstr "阅读更多"
+
+#: framework.php:591
+msgid "in&nbsp;"
+msgstr "在&nbsp;"
+
+#: framework.php:617
+msgid "<em>Tags:</em>&nbsp;"
+msgstr "<em>标签:</em>&nbsp;"
+
+#: framework.php:620
+msgid "<em>Categories:</em>&nbsp;"
+msgstr "<em>分类:</em>&nbsp;"
+
+#: framework.php:709
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: framework.php:715
+msgid "Your comment is awaiting moderation."
+msgstr "你的评论正在等待审核。"
+
+#: framework.php:722
+#: page.php:29
+#: single-portfolio.php:27
+#: single.php:27
+#: template-featuretour.php:40
+msgid "Edit"
+msgstr "编辑"
+
+#: page.php:28
+#: single-portfolio.php:26
+#: single.php:26
+#: template-featuretour.php:39
+msgid "Pages:"
+msgstr "页面："
+
+#: lib/admin/classes/skin-generator.php:137
+#, php-format
+msgid "Upload Successful. The following skin was added: %1$s"
+msgstr "上传成功。下面的皮肤是说： %1$s"
+
+#: lib/admin/classes/skin-generator.php:164
+#, php-format
+msgid "The following image could not be add to your export, it will have to be added to your skin manually: %1$s"
+msgstr "下面的图像不能被添加，将手动添加到你的皮肤: %1$s"
+
+#: lib/classes/contact.php:32
+#, php-format
+msgid "Form Field %1$s"
+msgstr "表格字段%1$s"
+
+#: lib/classes/contact.php:33
+msgid "Your Website"
+msgstr "网址"
+
+#: lib/classes/contact.php:34
+#, php-format
+msgid "Message sent from your %1$s website"
+msgstr "从你的 %1$s 网站发送消息"
+
+#: lib/classes/contact.php:35
+#, php-format
+msgid "%1$s Auto Responder"
+msgstr "%1$s 自动响应"
+
+#: lib/classes/contact.php:36
+msgid "Your captcha result is wrong."
+msgstr "你验证码是错误的。"
+
+#: lib/classes/contact.php:37
+msgid "You have entered an invalid e-mail address."
+msgstr "你输入了错误的邮件地址。"
+
+#: lib/classes/contact.php:38
+#, php-format
+msgid "&rdquo;%1$s&rdquo; is required."
+msgstr "&rdquo;%1$s&rdquo; 必填."
+
+#: lib/classes/contact.php:39
+msgid "Failed to send your message. Please try later or contact administrator by other way."
+msgstr "信息发送失败、请稍后再试或通过其他方式联系系统管理员。"
+
+#: lib/classes/contact.php:40
+msgid "Your message was sent successfully. Thanks."
+msgstr "你的信息发送成功。谢谢！"
+
+#: lib/classes/widget-contact-form.php:23
+#: lib/classes/widget-contact.php:22
+msgid "Contact Info"
+msgstr "联系信息"
+
+#: lib/classes/widget-flickr.php:22
+msgid "Photos on flickr"
+msgstr "flickr上的照片"
+
+#: lib/classes/widget-popular.php:26
+msgid "Popular Posts"
+msgstr "流行文章"
+
+#: lib/classes/widget-recent.php:26
+msgid "Recent Posts"
+msgstr "最新文章"
+
+#: lib/classes/widget-twitter.php:25
+msgid "Recent Tweets"
+msgstr "最新Tweets"
+
+#: lib/extensions/breadcrumbs-plus/breadcrumbs-plus.php:54
+msgid "Home"
+msgstr "首页"
+
+#: lib/extensions/breadcrumbs-plus/breadcrumbs-plus.php:168
+#: lib/extensions/breadcrumbs-plus/breadcrumbs-plus.php:171
+#: lib/extensions/breadcrumbs-plus/breadcrumbs-plus.php:174
+msgid "Archives for "
+msgstr "从归档"
+
+#: lib/extensions/breadcrumbs-plus/breadcrumbs-plus.php:178
+msgid "Archives by: "
+msgstr "归档于："
+
+#: lib/extensions/breadcrumbs-plus/breadcrumbs-plus.php:183
+msgid "Search results for \""
+msgstr "搜索结果为 \""
+
+#: lib/extensions/breadcrumbs-plus/breadcrumbs-plus.php:187
+msgid "Page Not Found"
+msgstr "页面没找到"
+
+#: lib/functions/core.php:629
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+
+#: lib/functions/core.php:632
+msgid "&laquo; First"
+msgstr "&laquo; 最新"
+
+#: lib/functions/core.php:633
+msgid "Last &raquo;"
+msgstr "最旧 &raquo;"
+
+#: lib/functions/core.php:634
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: lib/functions/core.php:635
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: lib/functions/core.php:636
+#: lib/functions/core.php:637
+msgid "..."
+msgstr "..."
+
+#: lib/functions/theme.php:54
+#: lib/functions/theme.php:60
+#: lib/functions/theme.php:63
+#: lib/functions/theme.php:69
+#: lib/functions/theme.php:72
+#, php-format
+msgid "Archive for %1$s"
+msgstr "从归档 %1$s"
+
+#: lib/functions/theme.php:54
+msgid "g:i a"
+msgstr "g:i a"
+
+#: lib/functions/theme.php:57
+#, php-format
+msgid "Archive for minute %1$s"
+msgstr "按时间归档 %1$s"
+
+#: lib/functions/theme.php:57
+msgid "i"
+msgstr "i"
+
+#: lib/functions/theme.php:60
+msgid "g a"
+msgstr ""
+
+#: lib/functions/theme.php:63
+msgid "F jS, Y"
+msgstr ""
+
+#: lib/functions/theme.php:66
+#, php-format
+msgid "Archive for week %1$s of %2$s"
+msgstr "按周归档%1$s 到 %2$s"
+
+#: lib/functions/theme.php:66
+msgid "W"
+msgstr ""
+
+#: lib/functions/theme.php:66
+#: lib/functions/theme.php:72
+msgid "Y"
+msgstr ""
+
+#: lib/functions/theme.php:78
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "搜索结果 &quot;%1$s&quot;"
+
+#: lib/functions/theme.php:82
+msgid "404 Not Found"
+msgstr "404 错误，没找到"
+
+#: lib/functions/theme.php:86
+#, php-format
+msgid "%1$s Page %2$s"
+msgstr "%1$s 页 %2$s"
+
+#: lib/functions/theme.php:702
+#: lib/functions/theme.php:730
+msgid "Portfolio"
+msgstr "作品"
+
+#: lib/functions/theme.php:754
+msgid "Search"
+msgstr "搜索"
+
+#: lib/functions/theme.php:755
+#: lib/functions/theme.php:916
+#, php-format
+msgid "Search Results for: %1$s"
+msgstr "搜索结果: %1$s"
+
+#: lib/functions/theme.php:762
+#: lib/functions/theme.php:2396
+msgid "Archives"
+msgstr "归档"
+
+#: lib/functions/theme.php:764
+#: lib/functions/theme.php:918
+#, php-format
+msgid "Category Archive for: %1$s"
+msgstr "分类归档为: %1$s"
+
+#: lib/functions/theme.php:766
+#: lib/functions/theme.php:920
+#, php-format
+msgid "All Posts Tagged Tag: %1$s"
+msgstr "全部文章标签: %1$s"
+
+#: lib/functions/theme.php:768
+#: lib/functions/theme.php:922
+#, php-format
+msgid "Daily Archive for: %1$s"
+msgstr "按天归档： %1$s"
+
+#: lib/functions/theme.php:770
+#: lib/functions/theme.php:924
+#, php-format
+msgid "Monthly Archive for: %1$s"
+msgstr "按月归档: %1$s"
+
+#: lib/functions/theme.php:772
+#: lib/functions/theme.php:926
+#, php-format
+msgid "Yearly Archive for: %1$s"
+msgstr "按年归档: %1$s"
+
+#: lib/functions/theme.php:775
+#: lib/functions/theme.php:930
+#, php-format
+msgid "Author Archive for: %1$s"
+msgstr "作者归档: %1$s"
+
+#: lib/functions/theme.php:778
+#: lib/functions/theme.php:933
+#, php-format
+msgid "Archives for: %1$s"
+msgstr "归档: %1$s"
+
+#: lib/functions/theme.php:786
+#: lib/functions/theme.php:2321
+msgid "Not Found"
+msgstr "没找到"
+
+#: lib/functions/theme.php:1209
+msgid "<em>Posted on:</em>"
+msgstr "<em>发布于:</em>"
+
+#: lib/functions/theme.php:1212
+msgid "<em>With:</em>"
+msgstr "<em>于:</em>"
+
+#: lib/functions/theme.php:1215
+msgid "<em>Posted by:</em>"
+msgstr "<em>发布者:</em>"
+
+#: lib/functions/theme.php:1423
+msgid "Share this:"
+msgstr "分享："
+
+#: lib/functions/theme.php:1450
+msgid "About the Author"
+msgstr "关于作者"
+
+#: lib/functions/theme.php:1455
+#, php-format
+msgid "View all posts by %s"
+msgstr "查看 %s 全部文章"
+
+#: lib/functions/theme.php:1489
+msgid "Additional Posts"
+msgstr "添加文章"
+
+#: lib/functions/theme.php:1500
+#: lib/functions/theme.php:1515
+msgid "Related Posts"
+msgstr "相关文章"
+
+#: lib/functions/theme.php:2154
+#, php-format
+msgid "%1$s Comment"
+msgstr "%1$s 评论"
+
+#: lib/functions/theme.php:2158
+#, php-format
+msgid "%1$s Trackback"
+msgstr "%1$s 引用"
+
+#: lib/functions/theme.php:2193
+msgid "1 Comment"
+msgstr "1 评论"
+
+#: lib/functions/theme.php:2283
+msgid "*"
+msgstr ""
+
+#: lib/functions/theme.php:2287
+msgid "Name"
+msgstr "姓名"
+
+#: lib/functions/theme.php:2288
+msgid "Email"
+msgstr "Email"
+
+#: lib/functions/theme.php:2289
+msgid "Website"
+msgstr "网址"
+
+#: lib/functions/theme.php:2295
+#, php-format
+msgid "You must be <a href=\"%1$s\" title=\"Log in\">logged in</a> to post a comment."
+msgstr "你必须 <a href=\"%1$s\" title=\"Log in\">登录</a> 才能发布评论."
+
+#: lib/functions/theme.php:2296
+#, php-format
+msgid "Logged in as <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+msgstr "登录为 <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+
+#: lib/functions/theme.php:2296
+msgid "Log out of this account"
+msgstr "登出"
+
+#: lib/functions/theme.php:2296
+msgid "Log out &raquo;"
+msgstr "登出 &raquo;"
+
+#: lib/functions/theme.php:2301
+msgid "Leave a Reply"
+msgstr "在这里写下评论"
+
+#: lib/functions/theme.php:2302
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "在这里对 %s写下评论"
+
+#: lib/functions/theme.php:2303
+msgid "Click here to cancel reply."
+msgstr "点这里取消回复。"
+
+#: lib/functions/theme.php:2304
+#: lib/functions/theme.php:2414
+msgid "Submit"
+msgstr "提交"
+
+#: lib/functions/theme.php:2326
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "很抱歉，您请求的页面无法找到。也许搜索会有所帮助。"
+
+#: lib/functions/theme.php:2328
+msgid "Apologies, but no post could be found matching your criteria."
+msgstr "抱歉，没有找到符合你要求的文章"
+
+#: lib/functions/theme.php:2330
+msgid "Apologies, but no post could be found matching your criteria. Perhaps searching will help."
+msgstr "抱歉，没有找到符合你要求的文章，也许搜索会有所帮助"
+
+#: lib/functions/theme.php:2370
+msgid "Pages"
+msgstr "页面"
+
+#: lib/functions/theme.php:2373
+#: lib/functions/theme.php:2378
+#: lib/functions/theme.php:2386
+#: lib/functions/theme.php:2394
+#: lib/functions/theme.php:2399
+msgid "Top"
+msgstr "顶部"
+
+#: lib/functions/theme.php:2375
+msgid "Category Archives"
+msgstr "分类档案"
+
+#: lib/functions/theme.php:2376
+msgid "RSS"
+msgstr ""
+
+#: lib/functions/theme.php:2381
+msgid "Blog Posts"
+msgstr "博客文章"
+
+#: lib/functions/theme.php:2383
+#: lib/functions/theme.php:2391
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "永久链接指向 %s"
+
+#: lib/functions/theme.php:2389
+msgid "Portfolios"
+msgstr "作品集"
+
+#: lib/functions/theme.php:2413
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr "本文受到密码保护。想查看请在下面输入密码："
+
+#: lib/functions/theme.php:2414
+msgid "Password:"
+msgstr "密码："
+
+#: lib/functions/twitter.php:47
+msgid "Twitter not configured."
+msgstr "Twitter 链接不上."
+
+#: lib/functions/twitter.php:82
+#, php-format
+msgid "<small> (%1$s&nbsp;ago)</small>"
+msgstr ""
+
+#: lib/functions/twitter.php:88
+#, php-format
+msgid "%1$s&nbsp;ago"
+msgstr "%1$s&nbsp;以前"
+
+#: lib/shortcodes/15-portfolio.php:291
+#: lib/shortcodes/15-portfolio.php:613
+msgid "Visit Site"
+msgstr "访问网站"
+
+#: lib/shortcodes/15-portfolio.php:321
+#: lib/shortcodes/15-portfolio.php:636
+msgid "No portfolio posts were found for the category selected."
+msgstr "在选择的类别没有找到作品文章"
+
+#: lib/shortcodes/16-contact.php:52
+msgid "Name:"
+msgstr "姓名："
+
+#: lib/shortcodes/16-contact.php:52
+msgid "Email:"
+msgstr "Email:"
+
+#: lib/shortcodes/16-contact.php:52
+msgid "Message:"
+msgstr "信息："
+
+#: lib/shortcodes/21-video.php:73
+msgid "Check this to disable the keyboard controls"
+msgstr "点这里启用键盘控制"
+
+#: lib/shortcodes/21-video.php:144
+msgid "Please enter the url to a YouTube video."
+msgstr "请输入YouTube 视频路径"
+
+#: lib/shortcodes/21-video.php:153
+msgid "There was an error retrieving the YouTube video ID for the url you entered, please verify that the url is correct."
+msgstr "检测到你输入的YouTube视频ID路径错误，请验证该URL是正确的。"
+
+#: lib/shortcodes/21-video.php:250
+msgid "Please enter the url to a Vimeo video."
+msgstr "请输入Vimeo 视频路径"
+
+#: lib/shortcodes/21-video.php:259
+msgid "There was an error retrieving the Vimeo video ID for the url you entered, please verify that the url is correct."
+msgstr "检测到你输入的Vimeo 视频ID路径有误，请核查路径是否正确。"
+
+#: lib/shortcodes/_hidden.php:291
+msgid "<em>Posted on: </em>"
+msgstr "<em>发布于: </em>"
+
+#: lib/shortcodes/_hidden.php:295
+msgid "l, F jS, Y, g:i a"
+msgstr ""
+
+#: lib/shortcodes/_hidden.php:306
+msgid "0 Comments"
+msgstr "0 评论"
+
+#: lib/shortcodes/_hidden.php:308
+#, php-format
+msgid "%1$s Comments"
+msgstr "%1$s 评论"
+
+#: lib/shortcodes/_hidden.php:321
+#: lib/shortcodes/_hidden.php:323
+#: lib/shortcodes/_hidden.php:325
+#, php-format
+msgid "Comment on %1$s"
+msgstr "评论于 %1$s"
+
+#: lib/shortcodes/_hidden.php:344
+msgid "<em>Posted in: </em>"
+msgstr "<em>发布在: </em>"
+

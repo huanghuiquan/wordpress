@@ -1,0 +1,74 @@
+/* CSS Document */
+
+#slider-main{
+	width: 1024px;
+	height: 400px;
+	padding: 0px;
+	margin: 0px;
+    list-style: none outside none;
+	position:relative;
+	overflow: hidden;
+}
+
+#slider-main li{
+	display:none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+}
+
+#slider-main li:first-child {
+    display:block;
+}
+
+#header-sticker{
+	background:url(../images/header_sticker.png) no-repeat ;
+	width: 132px;
+	height: 46px;
+	display:block;
+	position: relative;
+	z-index:4;
+	top: -45px;
+	right: -922px;
+}
+
+#counter {
+    text-align:right;
+    font-size:16px;
+	position: relative;
+	z-index:10;
+	top: 5px;
+	right: 85px;
+	color: #E1E1E1;
+}
+
+#play-btn{
+	background:url(../images/slider_control.png) no-repeat;
+	width: 40px;
+	height: 40px;
+	position:absolute;
+	right: 30px;
+	top: -5px;
+	display: none;
+	z-index: 10;
+}
+
+#play-btn:hover{
+	background-position:0 -40px;	
+}
+
+#pause-btn{
+	background:url(../images/slider_control.png) no-repeat -40px 0;
+	width: 40px;
+	height: 40px;
+	display: block;
+	position:absolute;
+	right: 25px;
+	top: -5px;
+	z-index:10;
+}
+
+#pause-btn:hover{
+	background-position:-40px -40px;	
+}
